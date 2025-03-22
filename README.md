@@ -3,7 +3,7 @@
 ## Currently working on personal projects.
 ***Jeweled*** [Discord](https://discord.gg/BNH2UWwctg) [Github REPO](https://github.com/durvated/jeweled)
 
-_My development [discord server](https://discord.gg/Xsd6c4BSkZ)
+My development [discord server](https://discord.gg/Xsd6c4BSkZ)
 
 Reach out to me on **discord**.
 

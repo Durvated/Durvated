@@ -1,4 +1,4 @@
-# Heyo! 14yo hs student, they/them.
+# Heyo! 14yo hs student.
 
 ## Currently working on personal projects.
 ***Jeweled*** [Discord](https://discord.gg/BNH2UWwctg) [Github REPO](https://github.com/durvated/jeweled)

@@ -1,7 +1,7 @@
-# Heyo! 14yo hs student.
+# Heyo! 15yo hs student. she/her
 
 ## Currently working on personal projects.
-***Jeweled*** [Discord](https://discord.gg/BNH2UWwctg) [Github REPO](https://github.com/durvated/jeweled)
+***Jeweled*** [Github REPO](https://github.com/durvated/jeweled)
 
 My development [discord server](https://discord.gg/Xsd6c4BSkZ)
 
@@ -14,5 +14,6 @@ Reach out to me on **discord**.
   - React
 - Python
   - Manim
+- Java
 
 :speaking_head::fire:***Peaking***:fire::speaking_head:

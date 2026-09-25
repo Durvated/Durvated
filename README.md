@@ -1,1 +1,1 @@
-# Heyo! 15yo hs student. she/her
+# Heyo! 16yo hs student. she/her
